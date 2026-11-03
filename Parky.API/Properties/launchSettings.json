@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Parky.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:14216;http://localhost:14217"
+    }
+  }
+}
+

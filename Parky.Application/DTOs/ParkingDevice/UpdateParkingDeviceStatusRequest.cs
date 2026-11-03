@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace Parky.Application.DTOs.ParkingDevice;
+
+public sealed class UpdateParkingDeviceStatusRequest
+{
+    public bool IsOnline { get; init; }
+}
